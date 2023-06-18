@@ -12,5 +12,5 @@
 </p>
 
 ___  
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weihong19971222&show_icons=true&theme=discord_old_blurple" />
+<!-- <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weihong19971222&show_icons=true&theme=discord_old_blurple" /> -->
 
